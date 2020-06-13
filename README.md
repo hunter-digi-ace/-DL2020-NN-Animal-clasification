@@ -1,7 +1,6 @@
 # -DL2020-NN-Animal-clasification
 
-To execute our code you need to put the dataset in a specific way,
-with this division of folders:
+## To execute our code you need to put the dataset in a specific way,with this division of folders:
 
 root/ipynb
 
@@ -18,7 +17,7 @@ root/data/test/test → all the image files for test
 root/submissions → output of csv
 
 
-To do different tests we have touched these variables
+## To do different tests we have touched these variables
 
 
 archs = ["resnet101"]
@@ -34,7 +33,7 @@ epochs = 10
 batch_size = 128
 
 
-to check the results we look at the csv entries together with the test images,the correct entries are:
+## to check the results we look at the csv entries together with the test images,the correct entries are:
 
 
 from 1 to 137 + 698, 699, 700 are squirrels
