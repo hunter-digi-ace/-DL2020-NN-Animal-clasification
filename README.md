@@ -32,6 +32,11 @@ epochs = 10
 
 batch_size = 128
 
+link to our models files:
+https://drive.google.com/file/d/1BRUZNHSBbp9JOEokUs7M7mWsomCxA-Pn/view?usp=sharing
+https://drive.google.com/file/d/1-1ayVP2tenXxLtx13FRsJm3QXv9et9r3/view?usp=sharing
+
+
 
 ## to check the results we look at the csv entries together with the test images,the correct entries are:
 
