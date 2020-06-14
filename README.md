@@ -32,6 +32,14 @@ epochs = 10
 
 batch_size = 128
 
+
+You need to change for your url with all files for our proyect execution
+
+drive.mount('/gdrive')
+
+%cd /gdrive/Shared drives/DANI IVAN EDGAR MARÇAL/DEEPLEARNING/Edgar - Dani/Deep_Learning2020/final/try2
+
+
 link to our models files:
 
 https://drive.google.com/file/d/1BRUZNHSBbp9JOEokUs7M7mWsomCxA-Pn/view?usp=sharing
